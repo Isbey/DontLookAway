@@ -68,6 +68,8 @@ If you encounter bugs, performance issues, or have suggestions, feel free to rea
 
 Not a whole lot of tips are given within the game itself. We, the developers, want the players to be able to figure out things for themselves and uncover all the secrets in the game. That said, it can be difficult, so if you would rather, we have typed up this guide to provide you with a comprehensive look at the mechanics of the game.
 
+**PLEASE ATTEMPT TO PLAY THE GAME AT LEAST ONCE BEFORE READING THE SPOILER INFO**
+
 <details>
 <summary>⚠️ **Spoiler Warning — Click to Reveal Strategy Guide**</summary>
 ---
@@ -84,7 +86,7 @@ Not a whole lot of tips are given within the game itself. We, the developers, wa
 
 ---
 
-### 🪧 Signposts
+### Signposts
 - The signposts are your main guide to finding the pages.
 - They glow when there is still a page in that direction to find.
 - The glow is gone if you’ve already found that page.
