@@ -6,16 +6,11 @@ You are lost in a dark forest and must collect all the pages to uncover the stor
 
 ## 📥 Installation
 
-### **Windows**
-1. Download the `.zip` file  
-2. Extract it anywhere  
-3. Run **DontLookAway.exe**
-
-### **macOS**
-1. Download the archive  
-2. Open it  
-3. Run the **DontLookAway** application  
-   - If macOS blocks it, right‑click → *Open* → confirm
+1. Goto [Releases](https://github.com/Isbey/DontLookAway/releases)
+2. Find the release that correlates to your system (i.e. Mac or Windows)
+3. Download the archived file and extract the contents.
+4. Open the application type file (.exe .app ect.)
+5. Enjoy 
 
 ---
 
