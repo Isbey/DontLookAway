@@ -25,7 +25,7 @@ You are lost in a dark forest and must collect all the pages to uncover the stor
 - **Mouse** — Look around  
 - **E** — Pick up pages, and any other interactable objects
 - **Shift** - Run
-- **Esp** - Pause
+- **Esc** - Pause
 - **Q** - Quit game (All Progess Is Lost)
 ###HEALTH
 - Yes you have health, how much? how little? only one way to find out
