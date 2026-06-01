@@ -93,7 +93,7 @@ Not a whole lot of tips are given within the game itself. We, the developers, wa
 
 ### 📄 Page Effects & Difficulty Changes
 - Most of the time, the items you find do not have a direct effect on the gameplay.
-- **Page 2** generates an enemy right next to you as soon as you put the page down. Be prepared to dodge this attack before you put down the page.
+- **Sometimes** a page generates an enemy right next to you as soon as you put the page down. Be prepared to dodge this attack before you put down the page.
 - After **page 5**, the difficulty in the game changes:
   - The enemies become faster  
   - There are more of them  
